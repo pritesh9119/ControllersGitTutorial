@@ -1,0 +1,12 @@
+- Git basics (What is Git)
+- Step by step guide to using git 
+
+1) Create a repository 
+	- One from Github directly
+	- One from the hard drive of the computer
+2) Make a change in the local computer (Push changes)
+3) Make a change online and sync both versions
+4) How to prevent some file to be commited ? .gitignore file for latex
+https://github.com/github/gitignore/tree/main
+
+
